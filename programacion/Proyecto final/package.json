@@ -1,5 +1,12 @@
 {
   "dependencies": {
-    "sass": "^1.82.0"
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@mui/material": "^6.1.10",
+    "sass": "^1.82.0",
+    "sweetalert": "^2.1.2"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.82.0"
   }
 }
